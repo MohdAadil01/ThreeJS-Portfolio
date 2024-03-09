@@ -15,11 +15,11 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <div className="font-light  text-xs sm:text-sm md:text-base   ">
-            Hey there! 👋 I'm MOHD AADIL, a passionate MERN stack developer with
-            a knack for crafting immersive web experiences. With a track record
-            of building dynamic websites like Creative Crafter and Chatify, I
-            thrive on turning ideas into reality through clean, efficient code.
-            Let's create something extraordinary together!
+            Hey there! 👋 I&apos;m MOHD AADIL, a passionate MERN stack developer
+            with a knack for crafting immersive web experiences. With a track
+            record of building dynamic websites like Creative Crafter and
+            Chatify, I thrive on turning ideas into reality through clean,
+            efficient code. Let&apos;s create something extraordinary together!
             <hr className="mt-2 mb-2 border-dashed" />
             My journey in web development is powered by an array of mystical
             tools and languages, with JavaScript casting the core of my

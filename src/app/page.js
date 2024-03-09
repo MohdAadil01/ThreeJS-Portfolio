@@ -30,7 +30,7 @@ export default function Home() {
       <div className="absolute bottom-[0.9rem] text-sm md:text-base flex  items-center justify-between rounded-lg overflow-hidden p-4 md:p-4 custom-bg z-[-1]">
         <p>
           Woven and wrought by Mohd Aadil, an alchemist of design, in the spirit
-          of the Witcher's path.
+          of the Witcher&apos;s path.
         </p>
       </div>
     </main>
