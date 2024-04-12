@@ -1,3 +1,5 @@
+// https://github-readme-stats.vercel.app/api?username=mohdaadil01
+
 export const projectsData = [
   {
     id: 1,
@@ -9,11 +11,10 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "Chatify",
-    description:
-      "Seamlessly connect with friends and colleagues through our intuitive online chat app.",
-    date: "2024-03-07",
-    demoLink: "https://github.com/MohdAadil01/Chatify",
+    name: "DrawCraft",
+    description: "An online drawing app where user can draw any shapes",
+    date: "2024-03-24",
+    demoLink: "https://draw-craft.vercel.app/",
   },
   {
     id: 3,
@@ -25,6 +26,38 @@ export const projectsData = [
   },
   {
     id: 4,
+    name: "Blog App",
+    description: "A Blog app where login/signup and browse blog create blogs.",
+    date: "2024-04-8",
+    demoLink: "https://github.com/MohdAadil01/BlogApp-Backend",
+  },
+  {
+    id: 5,
+    name: "Chatify",
+    description:
+      "Seamlessly connect with friends and colleagues through our intuitive online chat app.",
+    date: "2024-03-07",
+    demoLink: "https://github.com/MohdAadil01/Chatify",
+  },
+  {
+    id: 6,
+    name: "BuzzSphere",
+    description:
+      "A Social media application where user can interact with other users, like post, create and share post",
+    date: "2024-04-01",
+    demoLink: "https://github.com/MohdAadil01/MERN-BuzzSphere",
+  },
+
+  {
+    id: 7,
+    name: "Ecommerce App",
+    description:
+      "A ecommerce app where user can buy products, filter products,search for products and full admin authorization.",
+    date: "2023-03-30",
+    demoLink: "https://github.com/MohdAadil01/Ecommerce-backend",
+  },
+  {
+    id: 8,
     name: "Tic Tac Toe",
     description: "A Tic Tack Toe Game",
     date: "2023-05-30",
@@ -57,7 +90,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "https://drive.google.com/file/d/11tnXo6zM9azUoViKBhzggygDLQp4TitX/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1on0dkqxMuRDpky0H924NKQHaOJrQi6eZ/view",
     icon: "resume",
     newTab: true,
   },
